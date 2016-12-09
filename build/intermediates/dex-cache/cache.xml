@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/prince/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_7bc364e15bc5315e499ae8feea6a3c200dfd80b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_6859c5751bb10d5e7755b12012548b8933843fc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_023b0145d09a8293bc9d8ad3a3b81967ac6bfa1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prince/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.2.1_4dc126953e01b840af3f974b8e5ee6681f150794.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_5721140ab64430d00aa720d5d46dcdbcab0a34ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_47fd44f1acbd97828df52cd25f4c23d1d76e4e82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prince/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT_110bc0de5a462b7e43f43014d1779532d5c0674b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_f44df41f37f5a417fb9f38e2e5abcd99a3090d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_3fcaf8c4ad660f784b29feae9519d9b168965c16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_288e6b5cc04179499a59fa19607d3d2108fcac0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_9e1e245d6e731e31761dd0a2cc6d9a2e76e3ff8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_288e6b5cc04179499a59fa19607d3d2108fcac0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_9e1e245d6e731e31761dd0a2cc6d9a2e76e3ff8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_62f0c17e030dfcd8d6f659e2835eef9a7fa04132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_c3b46ec0307a8fbcd8e85bf8b9f54fe9b495e5ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_7b4c91fb42de58cec2e97732ed42e13e67e9ca12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6502715a8b8e361ec59ea9908a3a63a6ab591cf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.2.1_9dc44876ac882a60e9457338bc66db4245152627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_ba1b8f924d569837800b2e16426577fb65c5b225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prince/.gradle/caches/modules-2/files-2.1/com.github.jksiezni.permissive/permissive/0.1/c01c8680abc54727415bf51ca3a404356f43674a/permissive-0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c01c8680abc54727415bf51ca3a404356f43674a">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/permissive-0.1_aa77f90cbdccab4a1b226f2e71e4001a181c0939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prince/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_7bc364e15bc5315e499ae8feea6a3c200dfd80b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_970ae15186c507fc9551547157b08e9e52014f5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_077352f2180d553a77c1ea781a2c3fa553b43164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prince/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/okio-1.9.0_03c47465e5241aba72936b86f8c9aeac10f20f0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d13a46046ae31aaf14fdd3d47f8c8ea50d20c988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_585ca38021ec56776a11c30b01be5d35c3eb1b9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_6859c5751bb10d5e7755b12012548b8933843fc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_f44df41f37f5a417fb9f38e2e5abcd99a3090d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prince/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.2.1_4dc126953e01b840af3f974b8e5ee6681f150794.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_5721140ab64430d00aa720d5d46dcdbcab0a34ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_023b0145d09a8293bc9d8ad3a3b81967ac6bfa1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6502715a8b8e361ec59ea9908a3a63a6ab591cf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_47fd44f1acbd97828df52cd25f4c23d1d76e4e82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_c3b46ec0307a8fbcd8e85bf8b9f54fe9b495e5ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prince/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT_110bc0de5a462b7e43f43014d1779532d5c0674b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_3fcaf8c4ad660f784b29feae9519d9b168965c16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_970ae15186c507fc9551547157b08e9e52014f5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_7b4c91fb42de58cec2e97732ed42e13e67e9ca12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Programs/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_f051e4fe7538bc01ab5866e2a8047ab72ec0b718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.2.1_9dc44876ac882a60e9457338bc66db4245152627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_ba1b8f924d569837800b2e16426577fb65c5b225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prince/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/okio-1.9.0_03c47465e5241aba72936b86f8c9aeac10f20f0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_077352f2180d553a77c1ea781a2c3fa553b43164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_585ca38021ec56776a11c30b01be5d35c3eb1b9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_62f0c17e030dfcd8d6f659e2835eef9a7fa04132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prince/.gradle/caches/modules-2/files-2.1/com.github.jksiezni.permissive/permissive/0.1/c01c8680abc54727415bf51ca3a404356f43674a/permissive-0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c01c8680abc54727415bf51ca3a404356f43674a">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/permissive-0.1_aa77f90cbdccab4a1b226f2e71e4001a181c0939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Volumes/Data/Task/2016_10/BarronData/BarronData/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d13a46046ae31aaf14fdd3d47f8c8ea50d20c988.jar" />
+    </item>
+
+</items>
